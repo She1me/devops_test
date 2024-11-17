@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container {
+    background-color: #ffffff;
+    border: 2px solid #add8e6;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #4682b4;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #696969;
+}
+
